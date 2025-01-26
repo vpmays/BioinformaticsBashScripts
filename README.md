@@ -1,0 +1,1 @@
+smaple bash scripts for bioinformatics
